@@ -1,0 +1,28 @@
+#Operaciones básicas:
+"""
+Sumar(+), restar(-), multiplicar(*) y dividir(/) son sólo algunas operaciones básicas
+que puedes llevar a cabo no sólo con Python, sino también con otros lenguajes de
+programación.
+Para imprimir sus resultados, en el archivo fuente, es necesario ocupar la palabra reservada
+print()
+"""
+#Ejemplos:
+
+print(67 + 43)
+#Resultado de salida: 110
+
+print(98 - 34)
+#Resultado de salida: 64
+
+print(23 * 15)
+#Resultado de salida: 345
+
+print(100 / 15)
+#Resultado de salida: 6.666666666666667
+
+#Nota:
+"""
+Para hacer operaciones más complejas, hay que revisar la jerarquía de las mismas, además
+los tipos de valores númericos existentes: enteros(int), decimales o flotantes(float), etc.
+Y otros temas más que expondré más adelante
+"""
