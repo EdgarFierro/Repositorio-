@@ -1,0 +1,14 @@
+#Palabra reservada print
+'''
+La palabra reservada print(' ') ó (" ") sirve para imprimir cualquier frase escrita dentro
+de ella o el resultado de alguna operación
+'''
+#Ejemplos:
+
+print('Hola Mundo')#Con comillas simples
+#Resultado de salida: Hola mundo
+
+print("Bienvenidos/as a Python")#Con comillas dobles
+#Resultado de salida: Bienvenidos/as a Python
+
+print(9 + 9)#Resultado de salida: 18
